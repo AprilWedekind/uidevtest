@@ -57,6 +57,7 @@ margin-top: -420px;
 font-size: 14px;
 }
 #name{
+display: inline;
 color: #CC6600;
 }
 #nameLine p{
