@@ -1,0 +1,73 @@
+#body {
+
+}
+h1 {
+font-size: 18px;
+}
+#page{
+font-family: Georgia,"Times New Roman",Times,serif and Arial,"MS Trebuchet",sans-serif;
+width: 625px;
+}
+
+ul {
+list-style-type: none;
+}
+
+ul#bread li p{
+color: #CC6600;
+display: inline;
+}
+ul#bread{
+padding-left: 0px;
+}
+ul#bread li{
+display: inline;
+}
+
+ul#navigation li {
+display: inline;
+padding: px;
+}
+ul#navigation a {
+text-decoration: none;
+color: black;
+border-right: solid black 1px;
+padding-right: 20px;
+}
+li#item5 a {
+border-right: none;
+}
+ul#navigation {
+padding-left: 0px;
+border-top: dotted black 1px;
+padding-top: 5px;
+}
+li#sprite img{
+display: none;
+}
+
+div#mainImg {
+width: 150px;
+}
+
+#contentRight {
+margin-left: 200px;
+margin-top: -270px;
+font-size: 14px;
+}
+#name{
+color: #CC6600;
+}
+#nameLine p{
+display: inline;
+}
+#groupLine p{
+margin-top: 0px;
+}
+#pubLines p{
+margin: 0px;
+}
+
+#contentLeft {
+width: 150px;
+}
